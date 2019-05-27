@@ -5,4 +5,4 @@ layout: layouts/base.njk
 
 # Exploring Netlify with CSS Tricks
 
-Where to begin? Let's begin right here. Working on deploying.
+Where to begin? Let's begin right here. The site is deployed!
